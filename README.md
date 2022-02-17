@@ -9,7 +9,7 @@ This paper addresses the problem of visual sentiment analysis based on graph con
 - CUDA 10.0
 
 ## Installation
-- Datasets
+- Original datasets ([Download URL](https://pan.baidu.com/s/1SLyUjgwHREf1Jwm56owgXg), Extraction code: 0uny )
 - Code (To be uploaded)
 
 ## Citation
